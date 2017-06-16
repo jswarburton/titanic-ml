@@ -1,0 +1,10 @@
+# IntelliJ project files
+.idea
+.DS_Store
+
+target
+project/project
+
+/bin/
+
+src/main/resources/*-output
